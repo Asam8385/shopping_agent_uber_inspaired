@@ -1,16 +1,21 @@
 [project]
-name = "uber-agent-uber-inspired"
+name = "shopping-agent"
 version = "0.1.0"
-description = "Add your description here"
+description = "Shopping-list agent using Microsoft Agent Framework"
 readme = "README.md"
-authors = [
-    { name = "ASAM", email = "subairasam8733260@gmail.com" }
-]
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "agent-framework-azure-contentunderstanding",
+    "agent-framework-foundry",
+    "azure-ai-contentunderstanding",
+    "azure-identity",
+    "azure-monitor-opentelemetry",
+    "pydantic>=2.0",
+    "pydantic-settings>=2.0",
+]
 
 [project.scripts]
-uber-agent-uber-inspired = "uber_agent_uber_inspired:main"
+shopping-agent = "shopping_agent.app:main"
 
 [build-system]
 requires = ["uv_build>=0.12.3,<0.13.0"]
