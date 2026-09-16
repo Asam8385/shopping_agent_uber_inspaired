@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="Ei5rciZP2rdr15Y3Y7h9">
-    <mxGraphModel dx="1050" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1909" dy="1129" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -129,19 +129,19 @@
         <mxCell id="ukfU_5XHEB7GZYKDMBYw-39" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;&quot;&gt;if agent model cant get the proper&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;&quot;&gt;content from model call the azure&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;&quot;&gt;content understanding&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="350" y="694.3799999999999" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VnfTOuV1x6nFTz2TyKt4-1" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="VnfTOuV1x6nFTz2TyKt4-1" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="910" y="680" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VnfTOuV1x6nFTz2TyKt4-2" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Azure_content_understading&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;rotation=90;" parent="1" vertex="1">
+        <mxCell id="VnfTOuV1x6nFTz2TyKt4-2" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Azure_content_understading&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="30" y="760" width="360" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VnfTOuV1x6nFTz2TyKt4-4" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Prompt_injection(document_attach)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
+        <mxCell id="VnfTOuV1x6nFTz2TyKt4-4" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Prompt_injection(document_attach)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="490" y="350.00000000000006" width="430" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VnfTOuV1x6nFTz2TyKt4-5" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Cache_Redis.svg;" parent="1" vertex="1">
+        <mxCell id="VnfTOuV1x6nFTz2TyKt4-5" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Cache_Redis.svg;" vertex="1" parent="1">
           <mxGeometry x="1050" y="1030" width="64" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="VnfTOuV1x6nFTz2TyKt4-6" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;jumpSize=12;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;curved=0;exitX=0.426;exitY=0.117;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="VnfTOuV1x6nFTz2TyKt4-5" edge="1">
+        <mxCell id="VnfTOuV1x6nFTz2TyKt4-6" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;jumpSize=12;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;curved=0;exitX=0.426;exitY=0.117;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="VnfTOuV1x6nFTz2TyKt4-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1172" y="667" as="sourcePoint" />
             <Array as="points">
@@ -151,7 +151,7 @@
             <mxPoint x="1025" y="797" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VnfTOuV1x6nFTz2TyKt4-7" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;CDC with Kafka&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
+        <mxCell id="VnfTOuV1x6nFTz2TyKt4-7" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;CDC with Kafka&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="727" y="970" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
